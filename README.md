@@ -32,6 +32,12 @@
 |    Urdu   |   **_HTML / CSS_**    |
 |   French  |   **_Javascript_**    |
 
+```javascript
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 ### Contact #
 
 ~~<alimalik3@gmail.com>~~ Github: @alihaidermalik20 :wave:  
