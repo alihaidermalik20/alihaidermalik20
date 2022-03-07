@@ -1,51 +1,7 @@
-# **About me** #
+Hi, I'm Ali.
 
-- I am 23 years old
-- Currently, I am studying **_Bachelors in Business Administration (BBA)_** at [KU Leuven Brussels Campus] :student:
-- I am passionate about learning to code
+I am a student at KU Leuven in my final year of Bachelors's in Business Administration (BBA) committed to lifelong learning. I have also been an exchange student for a semester at the University of Maastricht. During my degree, I have been attracted more to technical subjects like Operations Management, Finance, Economics, Statistics and Data Analysis. This has led me to explore the world of Computer Science and Development.
 
-## My interests #
+Since then, my self-taught skills include knowledge of HTML/CSS and Javascript for building a basic website, Python, Git and Github. You can find me on GitHub @alihaidermalik20. I have also started Harvard CS50 Introduction to Computer Science which has taught me programming in C language, data structures, and algorithms. I am currently enrolled in a BootCamp for Web Development, completing alongside my degree in Business.
 
-1. **Reading**  
-   - non fiction books
-     - autobiographies, biographies, science, technology, psychology....
-   - fiction books
-     - **_The Hitchhiker's Guide to the Galaxy_**  
-       > “You know," said Arthur, "it's at times like this, when I'm trapped in a Vogon airlock with a man from Betelgeuse, and about to die of asphyxiation in deep space that I really wish I'd listened to what my mother told me when I was young."
-       > "Why, what did she tell you?"
-       > "I don't know, I didn't listen.” ― Douglas Adams, [The Hitchhiker's Guide to the Galaxy]
-     - **_1984_**[^1]
-       by George Orwell
-
-2. Sports
-   - Football
-   - Basketball
-   - Lifting
-3. Programming
-
-### Languages #
-
-| Languages | Programming Languages |
-|:---------:|:---------------------:|
-|  English  |         Python        |
-|  Russian  |           C           |
-|    Urdu   |   **_HTML / CSS_**    |
-|   French  |   **_Javascript_**    |
-
-```javascript
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-
-### Contact #
-
-~~<alimalik3@gmail.com>~~ Github: @alihaidermalik20 :wave:  
-
-I don't have a computer science background and have started my programming journey only about a month ago. So I'll be glad to make new acquintances and be a part of a community! Cheers!
-
-![Persistent Programmer](https://c.tenor.com/8ZpbRdXPnd4AAAAd/programming-crazy.gif)  
-
-[^1]: https://www.goodreads.com/book/show/40961427-1984
-[KU Leuven Brussels Campus]: https://www.kuleuven.be/english/campuses/brussels-campus
-[The Hitchhiker's Guide to the Galaxy]: https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy
+My plans for the future involve advancing my programming skills and combining them with my expertise in the business and finance field to build useful apps, tackle diverse challenges and find business solutions for innovative firms where I can grow and achieve my personal goals as well as the organisational goals to the best of my ability.
